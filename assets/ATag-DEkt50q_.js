@@ -1,0 +1,1 @@
+import{d as s,a as t,c as o,C as n,aN as r,_ as c}from"./index-CHKD4aAq.js";const p=s({__name:"ATag",props:{type:{default:"neutral"}},setup(a){return(e,l)=>(t(),o("span",{class:n(["a-tag",`a-tag--${a.type}`])},[r(e.$slots,"default",{},void 0)],2))}}),d=c(p,[["__scopeId","data-v-6608adfb"]]);export{d as A};
